@@ -8,7 +8,7 @@ compose = "1.7.1" # https://plugins.gradle.org/plugin/org.jetbrains.compose
 plugin = "0.0.10"
 idea-name = "2024.2.1"
 idea-code-min = "242.1"
-idea-code-max = "242"
+idea-code-max = "252"
 jvm = "21"
 
 [plugins]
